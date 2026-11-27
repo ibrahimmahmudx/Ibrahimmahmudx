@@ -83,38 +83,13 @@ Long term, I am working toward a **Computer Science & Engineering** degree, a ca
 
 ---
 
-## `> featured_operation`
-
-### 🛡️ [APKGuard](https://apkguard.pro.bd) — Android APK Security Scanner
-
-> A web-based security tool that analyzes Android APK files for **malware indicators, suspicious permissions and hidden risks** — before the app ever touches your device.
-
-`Permission Analysis` · `URL Detection` · `Risk Scoring` · `AI Explanations`
-
-[![Repo](https://img.shields.io/badge/Source_Code-appguard-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/ibrahimmahmudx/appguard)
-[![Live](https://img.shields.io/badge/Live_Site-apkguard.pro.bd-00c853?style=flat-square)](https://apkguard.pro.bd)
-
----
-
-## `> pinned_operations`
-
-<div align="center">
-
-<a href="https://github.com/ibrahimmahmudx/appguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmahmudx&repo=appguard&theme=merko&hide_border=true&bg_color=0d1117" height="120"/></a>
-<a href="https://github.com/ibrahimmahmudx/ibrahimpro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmahmudx&repo=ibrahimpro&theme=merko&hide_border=true&bg_color=0d1117" height="120"/></a>
-
-<a href="https://github.com/ibrahimmahmudx/tgdc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmahmudx&repo=tgdc&theme=merko&hide_border=true&bg_color=0d1117" height="120"/></a>
-<a href="https://github.com/ibrahimmahmudx/quickpack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahimmahmudx&repo=quickpack&theme=merko&hide_border=true&bg_color=0d1117" height="120"/></a>
-
-</div>
+## `> projects`
 
 | Project | What it is |
 |---|---|
-| ⚔️ **[cyber-strike-force-portal](https://github.com/ibrahimmahmudx/cyber-strike-force-portal)** | Cyber defense community portal |
-| 🌊 **[nil-alo](https://github.com/ibrahimmahmudx/nil-alo)** | Cox's Bazar travel guide |
-| ✊ **[july-uprising-chronicle](https://github.com/ibrahimmahmudx/july-uprising-chronicle)** | Chronicle of the July uprising |
-
-🚀 **SpaceView** — my live space dashboard: https://spaceview.pro.bd (real-time ISS tracking, NASA's photo of the day, launches & planets)
+| 🚀 **[SpaceView](https://spaceview.pro.bd)** | Live space dashboard — real-time ISS tracking, NASA's photo of the day, rocket launches, astronauts, the Moon & the planets · [Code](https://github.com/ibrahimmahmudx/spaceview) |
+| 🛡️ **[APKGuard](https://apkguard.pro.bd)** | Web-based Android APK security scanner — malware indicators, suspicious permissions & risk scoring · [Code](https://github.com/ibrahimmahmudx/appguard) |
+| ✊ **[July Uprising Chronicle](https://july-uprising-chronicle.vercel.app)** | Chronicle of the July 2024 uprising in Bangladesh — a 1,500-photo gallery and the official martyrs list · [Code](https://github.com/ibrahimmahmudx/july-uprising-chronicle) |
 
 ---
 
