@@ -67,21 +67,17 @@ Long term, I am working toward a **Computer Science & Engineering** degree, a ca
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,flutter,git,github,cloudflare,vercel,supabase,androidstudio&theme=dark&perline=12" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel&theme=dark&perline=12" alt="Tools I use"/>
 
 <br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
-<sub>Explored hands-on through real projects — DNS & SSL/TLS, hosting & deployment, networking and troubleshooting.</sub>
+<sub>I build with AI tools (vibe coding) and deploy everything myself — DNS &amp; SSL/TLS, hosting, networking and troubleshooting. The programming languages are what I am learning now.</sub>
 
 </div>
 
