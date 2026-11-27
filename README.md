@@ -118,6 +118,8 @@ Long term, I am working toward a **Computer Science & Engineering** degree, a ca
 | 🌊 **[nil-alo](https://github.com/ibrahimmahmudx/nil-alo)** | Cox's Bazar travel guide |
 | ✊ **[july-uprising-chronicle](https://github.com/ibrahimmahmudx/july-uprising-chronicle)** | Chronicle of the July uprising |
 
+🚀 **SpaceView** — my live space dashboard: https://spaceview.pro.bd (real-time ISS tracking, NASA's photo of the day, launches & planets)
+
 ---
 
 ## `> system_stats`
