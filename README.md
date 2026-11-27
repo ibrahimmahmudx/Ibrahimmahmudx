@@ -89,7 +89,7 @@ Long term, I am working toward a **Computer Science & Engineering** degree, a ca
 |---|---|
 | 🚀 **[SpaceView](https://spaceview.pro.bd)** | Live space dashboard — real-time ISS tracking, NASA's photo of the day, rocket launches, astronauts, the Moon & the planets · [Code](https://github.com/ibrahimmahmudx/spaceview) |
 | 🛡️ **[APKGuard](https://apkguard.pro.bd)** | Web-based Android APK security scanner — malware indicators, suspicious permissions & risk scoring · [Code](https://github.com/ibrahimmahmudx/appguard) |
-| ✊ **[July Uprising Chronicle](https://july-uprising-chronicle.vercel.app)** | Chronicle of the July 2024 uprising in Bangladesh — a 1,500-photo gallery and the official martyrs list · [Code](https://github.com/ibrahimmahmudx/july-uprising-chronicle) |
+| ✊ **[July Uprising Chronicle](https://julyrevolution-bd.vercel.app)** | Chronicle of the July 2024 uprising in Bangladesh — a 1,500-photo gallery and the official martyrs list · [Code](https://github.com/ibrahimmahmudx/july-uprising-chronicle) |
 
 ---
 
